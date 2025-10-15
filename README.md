@@ -242,10 +242,4 @@ To extend the tool:
 3. Add corresponding visualization methods
 4. Update validation tests
 
-## License
 
-This tool is provided as-is for educational and analysis purposes. Users should verify all calculations independently before making investment decisions.
-
-## Disclaimer
-
-This tool is for educational and informational purposes only. It does not constitute financial advice, and users should consult with financial professionals before making investment decisions. Past performance does not guarantee future results.
