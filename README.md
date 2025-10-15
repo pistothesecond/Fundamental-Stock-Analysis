@@ -1,5 +1,5 @@
 # Multi-Company Enhanced Stock Analysis Tool
-
+contact runjoroge@gmail.com for any feedback you have
 A comprehensive Python tool for analyzing multiple stocks with advanced visualizations, CSV logging, and detailed HTML reporting.
 
 ## Features
